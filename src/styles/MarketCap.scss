@@ -1,0 +1,22 @@
+.MarketCap {
+  .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+
+    .title {
+      margin: 0;
+      margin-top: 10px;
+      white-space: pre-line;
+      text-align: left;
+    }
+    .MaxSupplyVal {
+      color: #87d7f8;
+      font-weight: 600;
+      font-size: 25px;
+      margin: 0;
+    }
+  }
+}

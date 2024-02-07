@@ -1,0 +1,28 @@
+.Price {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  height: 90%;
+  align-items: center;
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 60px;
+    .title {
+      margin: 0;
+      font-weight: 400;
+      font-size: 20px;
+    }
+    .price-text {
+      font-size: 45px;
+      margin: 0;
+      font-weight: 600;
+    }
+  }
+  .dollar-sign-icon {
+    background-color: #d8f066;
+    border-radius: 100%;
+    padding: 10px;
+  }
+}
