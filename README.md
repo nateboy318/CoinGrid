@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+# Coin Grid
+Coin grid is a web app that simplifies crypto data using a bento box grid layout, with each box powered by a different Vue component. From displaying 24-hour change percentages to tapping into the OpenAI API for concise coin analyses, and even generating dynamic links to explore coins further, the app aims to streamline crypto information.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+In a crypto world inundated with complexity, this tool serves to deliver essential coin data in a user-friendly manner, ensuring easy digestion for users.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
